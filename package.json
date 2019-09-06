@@ -1,12 +1,25 @@
 {
-  "name": "inextjs-starter",
+  "name": "inextjs",
   "version": "0.0.1",
-  "description": "Boilerplate/Starter project for NextJS app prepared by iJS (https://iJS.to)",
+  "description": "Starter project for NextJS app prepared by iJS (https://iJS.to)",
   "scripts": {
     "dev": "next",
     "build": "next build",
     "start": "next start"
   },
+  "bugs": {
+    "url": "https://github.com/ijsto/inextjs/issues"
+  },
+  "keywords": [
+    "nextjs",
+    "react",
+    "boilerplate"
+  ],
+  "author": "iJS.to - Scott Agirs Neminskis",
+  "bugs": {
+    "url": "https://github.com/ijsto/nextjs/issues"
+  },
+  "homepage": "https://inextjs.now.sh/",
   "dependencies": {
     "next": "^9.0.3",
     "react": "^16.9.0",
