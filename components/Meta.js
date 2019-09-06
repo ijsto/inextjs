@@ -28,11 +28,8 @@ export const Meta = () => {
         h1,
         h2,
         h3,
-        h4,
-        h5,
-        h6 {
+        h4 {
           font-family: 'Boogaloo', sans-serif;
-          margin-top: 1em;
         }
 
         body {

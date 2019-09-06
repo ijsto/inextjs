@@ -42,6 +42,12 @@ export const Header = () => {
         header a {
           color: white;
           margin: 0 1em;
+          text-decoration: none;
+        }
+        header a:hover {
+          text-shadow: 1px -1px 0 #776677, 1px -1px 0 #776677,
+            -1px 1px 0 #776677, 1px 2px 0 #776677;
+          font-weight: 800;
         }
 
         .ijs-link {
