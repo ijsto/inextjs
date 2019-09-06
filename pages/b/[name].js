@@ -1,9 +1,11 @@
 const SingleBook = ({ query }) => {
   return (
     <div className="content">
-      <h1>{query.name}</h1>
-      <p>Name of the Singlebook {query.name}!</p>
-      <h3>This is a dynamic page.</h3>
+      <h1>
+        <span style={{ opacity: 0.5, fontSize: '0.5em' }}>Query name:</span>{' '}
+        {query.name}!
+      </h1>
+      <h2 style={{ marginTop: 32 }}>This is a dynamic page.</h2>
       <p>
         You can access parameters (params) from the URL pathname to later use in
         you business logic.

@@ -1,11 +1,14 @@
 export default () => (
   <>
     <div className="content">
-      <h1>My First NextJS page</h1>
-      <div>We did it with iJS.to!</div>
+      <h1 className="title" style={{}}>
+        My First NextJS page
+      </h1>
+      <div>Time to iJS.to build stuff!</div>
 
       <a href="https://ijs.to/" target="_blank">
-        <h2>Visit iJS.to</h2>
+        <h3 className="title">Other courses</h3>
+        <h2 className="title">on iJS.to</h2>
       </a>
       <ul>
         <li>
@@ -32,6 +35,23 @@ export default () => (
     </div>
 
     <style jsx>{`
+      h1 {
+        margin: 1em auto 0.25em;
+      }
+      h2 {
+        margin: 0 auto 0.75em auto;
+        font-size: 2.5em;
+      }
+      h3 {
+        margin: 1em auto 0;
+      }
+
+      a {
+        margin: 1em auto;
+      }
+      .title {
+        font-family: 'Boogaloo', sans-serif;
+      }
       div {
         text-align: center;
       }
