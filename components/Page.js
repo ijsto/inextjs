@@ -7,7 +7,6 @@ const Page = ({ children }) => {
     <>
       <Meta />
       <Header />
-
       {children}
       <Footer />
     </>
