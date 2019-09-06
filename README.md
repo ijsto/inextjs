@@ -1,8 +1,8 @@
 <h1 align="center">iJS.to NextJS Starter</h1>
 
-[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=for-the-badge)](https://github.com/prettier/prettier)
 [![github follow](https://img.shields.io/github/followers/ijsto?color=%23ff665a&label=Follow%20iJS.to&logo=github&style=for-the-badge)](https://github.com/ijsto)
-[![ijs](https://img.shields.io/badge/learn%20code-black?&message=Courses&style=for-the-badge&label=ijs.to)](https://ijs.to)
+[![ijs](https://img.shields.io/badge/learn%20code-black?&message=Courses&style=for-the-badge&label=ijs.to&colorA=FF6666&colorB=776677)](https://ijs.to)
+[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=for-the-badge)](https://github.com/prettier/prettier)
 
 This is a free NextJS starter project brought to you by iJS.to.
 
