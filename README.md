@@ -24,9 +24,9 @@ With Next.js, React pages are automatically rendered on both client and server s
 
 This is a simple starter project that demonstrates how to use NextJS with custom layout and some modular styles via `<style jsx />` and `<style global jsx />` tags.
 
-## Get Started
+## Get Started (4 minutes)
 
-1. Clone the starter project
+1. Clone the the [starter repo](https://github.com/ijsto/nextjs)
 
 ```
 
@@ -55,6 +55,8 @@ To run the project locally:
 `npm run dev`
 
 Starter project is live at: http://localhost:3000
+
+### The starter is now ready - have fun!
 
 ## Contributing
 
