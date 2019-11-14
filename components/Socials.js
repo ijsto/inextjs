@@ -3,30 +3,30 @@ export const Socials = () => {
     <>
       <div className="socials">
         <a target="_blank" href="https://twitter.com/ijstodev">
-          <img src="/static/icon/twitter.png" className="icon" alt="my image" />
+          <img src="/icon/twitter.png" className="icon" alt="my image" />
         </a>
         <a
           target="_blank"
           href="https://www.youtube.com/channel/UCk54GuQ7ha-wvviMimD8i1w"
         >
-          <img src="/static/icon/youtube.png" className="icon" alt="my image" />
+          <img src="/icon/youtube.png" className="icon" alt="my image" />
         </a>
         <a target="_blank" href="https://www.instagram.com/ijsto/">
           <img
-            src="/static/icon/instagram.png"
+            src="/icon/instagram.png"
             className="icon"
             alt="my image"
           />
         </a>
         <a target="_blank" href="https://www.facebook.com/IJS-349806719022014">
           <img
-            src="/static/icon/facebook.png"
+            src="/icon/facebook.png"
             className="icon"
             alt="my image"
           />
         </a>
         <a href="mailto:code@ijs.to">
-          <img src="/static/icon/email.png" className="icon" alt="my image" />
+          <img src="/icon/email.png" className="icon" alt="my image" />
         </a>
       </div>
       <style jsx>{`

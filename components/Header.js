@@ -1,4 +1,4 @@
-import Link from 'next/link';
+import Link from "next/link";
 
 export const Header = () => {
   return (
@@ -40,13 +40,16 @@ export const Header = () => {
         }
         header div,
         header a {
-          color: white;
-          margin: 0 1em;
+          text-transform: uppercase;
+          font-size: 0.9em;
+          letter-spacing: 1px;
+          padding: 2rem;
           text-decoration: none;
         }
         header a:hover {
-          text-shadow: 1px -1px 0 #776677, 1px -1px 0 #776677,
-            -1px 1px 0 #776677, 1px 2px 0 #776677;
+          color: #1c2b6d;
+          text-shadow: 1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 10px #fff,
+            1px 1px 0 #fff;
           font-weight: 800;
         }
 
@@ -55,7 +58,7 @@ export const Header = () => {
         }
 
         .js-font {
-          font-family: 'Boogaloo', sans-serif;
+          font-family: "Source Sans Pro", sans-serif;
           color: #776677;
           font-size: 2rem;
           margin-right: 4px;

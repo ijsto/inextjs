@@ -1,4 +1,4 @@
-import Link from 'next/link';
+import Link from "next/link";
 
 const Books = ({ query }) => {
   return (
@@ -8,7 +8,7 @@ const Books = ({ query }) => {
       <h1>Books Catalogue</h1>
 
       <p>
-        <Link href="/b/everybody-writes">
+        <Link href="/b/[name]" as="/b/everybody-writes">
           <a>1. Everybody Writes</a>
         </Link>
       </p>

@@ -1,4 +1,4 @@
-import Head from 'next/head';
+import Head from "next/head";
 
 export const Meta = () => {
   return (
@@ -6,30 +6,21 @@ export const Meta = () => {
       <Head>
         <title>iJS.to - Modern Javascript Courses</title>
 
-        <link rel="shortcut icon" href="/static/favicon.png" />
-        <link rel="stylesheet" type="text/css" href="/static/global.css" />
+        <link
+          href="https://fonts.googleapis.com/css?family=Comfortaa|Source+Sans+Pro:700&display=swap"
+          rel="stylesheet"
+        />
+        <link rel="shortcut icon" href="/favicon.png" />
+        <link rel="stylesheet" type="text/css" href="/global.css" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta charSet="utf-8" />
       </Head>
       <style jsx global>{`
-        @font-face {
-          font-family: 'Comfortaa';
-          src: url('/static/font/Comfortaa-Regular.ttf') format('truetype');
-          font-weight: normal;
-          font-style: normal;
-        }
-        @font-face {
-          font-family: 'Boogaloo';
-          src: url('/static/font/Boogaloo-Regular.ttf') format('truetype');
-          font-weight: normal;
-          font-style: normal;
-        }
-
         h1,
         h2,
         h3,
         h4 {
-          font-family: 'Boogaloo', sans-serif;
+          font-family: "Source Sans Pro", sans-serif;
         }
 
         body {
@@ -43,7 +34,7 @@ export const Meta = () => {
         }
 
         * {
-          font-family: 'Comfortaa', sans-serif;
+          font-family: "Comfortaa", sans-serif;
           box-sizing: border-box;
           color: #776677;
           margin: 0;

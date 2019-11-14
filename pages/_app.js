@@ -1,6 +1,6 @@
-import App, { Container } from 'next/app';
+import App from "next/app";
 
-import Page from '../components/Page';
+import Page from "../components/Page";
 
 class AppWrapper extends App {
   static async getInitialProps({ Component, ctx }) {
@@ -19,11 +19,9 @@ class AppWrapper extends App {
     const { Component, pageProps } = this.props;
 
     return (
-      <Container>
-        <Page>
-          <Component {...pageProps} />
-        </Page>
-      </Container>
+      <Page>
+        <Component {...pageProps} />
+      </Page>
     );
   }
 }
