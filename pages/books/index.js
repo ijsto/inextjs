@@ -1,6 +1,6 @@
 import Link from "next/link";
 
-const Books = ({ query }) => {
+const Books = () => {
   return (
     <div className="content">
       <p>The link below is a dynamic NextJS link.</p>
@@ -8,6 +8,11 @@ const Books = ({ query }) => {
       <h1>Books Catalogue</h1>
 
       <p>
+        {/* 
+            Visit 
+            https://iJS.to
+            learn more about dynamic routes
+        */}
         <Link href="/b/[name]" as="/b/everybody-writes">
           <a>1. Everybody Writes</a>
         </Link>
