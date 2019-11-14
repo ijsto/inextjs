@@ -4,15 +4,17 @@
 [![ijs](https://img.shields.io/badge/learn%20code-black?&message=Courses&style=for-the-badge&label=ijs.to&colorA=FF6666&colorB=776677)](https://ijs.to)
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=for-the-badge)](https://github.com/prettier/prettier)
 
-This is a free NextJS starter project brought to you by iJS.to.
+This is a free NextJS starter project by iJS.to.
 
 With minimal feature-set, this project includes the following features:
 
-- NextJS Basic app Layout with:
+- NextJS Basic app Layout handled by `components/Page.js`
 
-- custom \_app.js file to support the layout
+- custom \_app.js file to support the layout component
 
 - Modular CSS examples
+
+- dynamic and static page examples
 
 You can see a live demo of this repo at [inextjs.now.sh](https://inextjs.now.sh/)
 
@@ -24,7 +26,7 @@ With Next.js, React pages are automatically rendered on both client and server s
 
 This is a simple starter project that demonstrates how to use NextJS with custom layout and some modular styles via `<style jsx />` and `<style global jsx />` tags.
 
-## Get Started (4 minutes)
+## Get Started (3 minutes)
 
 1. Clone the the [starter repo](https://github.com/ijsto/nextjs)
 
