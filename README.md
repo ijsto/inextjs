@@ -6,7 +6,7 @@
 
 This is a free NextJS starter project by iJS.to.
 
-With minimal feature-set, this project includes the following features:
+In this project:
 
 - NextJS Basic app Layout handled by `components/Page.js`
 
@@ -16,6 +16,8 @@ With minimal feature-set, this project includes the following features:
 
 - dynamic and static page examples
 
+- `<style jsx global />` example for global Next.js styles
+
 You can see a live demo of this repo at [inextjs.now.sh](https://inextjs.now.sh/)
 
 ## About
@@ -24,7 +26,7 @@ NextJS is a framework that makes it easy to create Universal web apps in React.
 
 With Next.js, React pages are automatically rendered on both client and server side, without the hassle of setting up dependancies like webpack or babel and with automatic routing.
 
-This is a simple starter project that demonstrates how to use NextJS with custom layout and some modular styles via `<style jsx />` and `<style global jsx />` tags.
+This is a simple starter project that demonstrates how to use NextJS with custom layout and some modular and global styles via `<style jsx />` and `<style global jsx />` tags.
 
 ## Get Started (3 minutes)
 
