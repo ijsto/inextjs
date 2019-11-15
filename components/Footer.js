@@ -1,5 +1,5 @@
-import Link from 'next/link';
-import Socials from './Socials';
+import Link from "next/link";
+import Socials from "./Socials";
 
 export const Footer = () => {
   return (
@@ -9,10 +9,10 @@ export const Footer = () => {
 
         <div className="whatisthis">NextJS Starter App</div>
         <div className="madein">
-          Prepared with ♡ at{' '}
-          <Link href="https://ijs.to/">
-            <a target="_blank">iJS.to</a>
-          </Link>
+          Prepared with ♡ at{" "}
+          <a href="https://ijs.to/" target="_blank">
+            iJS.to
+          </a>
         </div>
       </footer>
       <style jsx>{`
