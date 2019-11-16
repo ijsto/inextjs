@@ -33,7 +33,7 @@ export const Meta = () => {
         }
 
         * {
-          font-family: "Comfortaa", sans-serif;
+          font-family: "Space Mono", sans-serif;
           box-sizing: border-box;
           color: #776677;
           margin: 0;
