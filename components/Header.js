@@ -40,6 +40,7 @@ export const Header = () => {
         }
         header div,
         header a {
+          color: white;
           text-transform: uppercase;
           font-size: 0.9em;
           letter-spacing: 1px;
