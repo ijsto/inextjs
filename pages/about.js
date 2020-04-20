@@ -4,7 +4,7 @@ export const About = () => {
       <h1>About Page</h1>
 
       <p>
-        Interested in learning more about what is Next.js? 
+        Interested in learning more about what is Next.js?{" "}
         <a
           href="https://ijs.to/p/what-is-next.js" 
           target="_blank"
