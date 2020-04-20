@@ -7,7 +7,9 @@ const Page = ({ children }) => {
     <>
       <Meta />
       <Header />
-      {children}
+      <div style={{ maxWidth: "90%", margin: "0 auto", padding: "1rem 0" }}>
+        {children}
+      </div>
       <Footer />
     </>
   );
