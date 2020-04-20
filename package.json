@@ -21,8 +21,6 @@
     "lib": "lib"
   },
   "dependencies": {
-    "formik": "^2.0.4",
-    "graphql": "^14.5.8",
     "next": "^9.3.5",
     "react": "^16.13.1",
     "react-dom": "^16.11.0",
