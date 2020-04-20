@@ -4,11 +4,11 @@
 [![ijs](https://img.shields.io/badge/learn%20code-black?&message=Courses&style=for-the-badge&label=ijs.to&colorA=FF6666&colorB=776677)](https://ijs.to)
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=for-the-badge)](https://github.com/prettier/prettier)
 
-This is a free NextJS starter project by iJS.to.
+A simple Next.js starter app for your projects
 
-In this project:
+In this app:
 
-- NextJS Basic app Layout handled by `components/Page.js`
+- Next.js basic app Layout handled by `components/Page.js`
 
 - custom \_app.js file to support the layout component
 
@@ -22,11 +22,11 @@ You can see a live demo of this repo at [inextjs.now.sh](https://inextjs.now.sh/
 
 ## About
 
-NextJS is a framework that makes it easy to create Universal web apps in React.
+Next.js is a framework that makes it easy to create Universal web apps in React.
 
-With Next.js, React pages are automatically rendered on both client and server side, without the hassle of setting up dependancies like webpack or babel and with automatic routing.
+[https://ijs.to/p/what-is-next.js](Read more about Next.js in this post)
 
-This is a simple starter project that demonstrates how to use NextJS with custom layout and some modular and global styles via `<style jsx />` and `<style global jsx />` tags.
+This is a simple starter project that demonstrates how to use Next.js with custom layout and some modular and global styles via `<style jsx />` and `<style global jsx />` tags.
 
 ## Get Started (3 minutes)
 
@@ -50,13 +50,13 @@ cd inextjs
 
 ```
 
-npm install` or `npm i
+`yarn` or `npm install` or `npm i`
 
 ```
 
 To run the project locally:
 
-`npm run dev`
+`yarn dev` or `npm run dev`
 
 Starter project is live at: http://localhost:3000
 
@@ -64,4 +64,4 @@ Starter project is live at: http://localhost:3000
 
 ## Contributing
 
-All contributions and/or feature requests are most welcome!
+Have an idea how to make this starter better/more useful? Please submit a PR.
