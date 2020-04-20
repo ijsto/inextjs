@@ -2,18 +2,27 @@ export const About = () => {
   return (
     <div>
       <h1>About Page</h1>
+
       <p>
-        NextJS is a framework that makes it easy to create Universal web apps in
-        React.
+        Interested in learning more about what is Next.js? 
+        <a
+          href="https://ijs.to/p/what-is-next.js" 
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Check out this post
+        </a>
       </p>
       <p>
-        With Next.js, React pages are automatically rendered on both client and
-        server side, without the hassle of setting up dependancies like webpack
-        or babel and with automatic routing.{" "}
-      </p>
-      <p>
-        This is a simple starter project intended as a base for any other iJS
-        starter boilerplate/starter projects.
+        This simple app is intended as a base for any other{" "}
+        <a
+          href="https://ijs.to" 
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          iJS.to
+        </a>{" "}
+        or your own starter projects to eliminate the boilerplate.
       </p>
       <h2>Get Started in (3 minutes)</h2>
       <ul>
@@ -33,13 +42,13 @@ export const About = () => {
         <li>
           3. Install project dependencies
           <p>
-            <code>npm install</code> or <code>npm i</code>
+            <code>yarn</code> or <code>npm install</code> or <code>npm i</code>
           </p>
         </li>
         <li>
           To run the project locally:
           <p>
-            <code>npm run dev</code>
+            <code>yarn dev</code> or <code>npm run dev</code>
           </p>
         </li>
         <li>
