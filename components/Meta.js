@@ -43,6 +43,7 @@ export const Meta = () => {
 
         a:hover {
           color: orange;
+          text-decoration: none;
         }
       `}</style>
     </>
