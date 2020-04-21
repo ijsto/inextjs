@@ -1,11 +1,11 @@
 export default () => (
   <>
     <div>
-      <h1>Your first NextJS app</h1>
-      <div>Have fun and build stuff!</div>
+      <h1>Next.js starter</h1>
+      <div style={{marginBottom: 64}}>Have fun building - dynamic layout is added!</div>
 
-      <a href="https://ijs.to/courses/" target="_blank">
-        <h2>Learn code on iJS.to</h2>
+      <a href="https://ijs.to/" target="_blank">
+        <p>Learn code on iJS.to</p>
       </a>
       <ul>
         <li>

@@ -4,7 +4,9 @@ export const Meta = () => {
   return (
     <>
       <Head>
-        <title>iJS.to - Modern Javascript Courses</title>
+        <title>
+          iNext.js | Next.js starter app by iJS.to
+        </title>
 
         <link
           href="https://fonts.googleapis.com/css?family=Space+Mono|Source+Sans+Pro:700&display=swap"
