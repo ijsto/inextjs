@@ -54,14 +54,14 @@ export const Header = () => {
             1px 1px 0 orange;
           font-weight: 800;
         }
-
-
         
         .logo {
-          font-size: 1.25rem;
           background-color: #B838F0;
-          padding: 1.55rem 0 0 0.75rem;
+          font-size: 1.25rem;
           letter-spacing: 0px;
+          padding: 0.76rem 0 0 0.75rem;
+          position: absolute;
+          top: 16px;
         }
         .logo:hover {
           background: #333644;
