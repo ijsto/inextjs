@@ -48,11 +48,7 @@ cd inextjs
 
 3. Install project dependencies
 
-```
-
 `yarn` or `npm install` or `npm i`
-
-```
 
 To run the project locally:
 
