@@ -5,21 +5,13 @@ export const About = () => {
 
       <p>
         Interested in learning more about what is Next.js?{" "}
-        <a
-          href="https://ijs.to/p/what-is-next.js" 
-          target="_blank"
-          rel="noopener noreferrer"
-        >
+        <a href="https://ijs.to/p/what-is-next.js" target="_blank">
           Check out this post
         </a>
       </p>
       <p>
         This simple app is intended as a base for any other{" "}
-        <a
-          href="https://ijs.to" 
-          target="_blank"
-          rel="noopener noreferrer"
-        >
+        <a href="https://ijs.to" target="_blank">
           iJS.to
         </a>{" "}
         or your own starter projects to eliminate the boilerplate.
