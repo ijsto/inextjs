@@ -23,8 +23,7 @@ You can see a live demo of this repo at [inextjs.now.sh](https://inextjs.now.sh/
 ## About
 
 Next.js is a framework that makes it easy to create Universal web apps in React.
-
-[https://ijs.to/p/what-is-next.js](Read more about Next.js in this post)
+[Read more about Next.js in this post](https://ijs.to/p/what-is-next.js)
 
 This is a simple starter project that demonstrates how to use Next.js with custom layout and some modular and global styles via `<style jsx />` and `<style global jsx />` tags.
 
