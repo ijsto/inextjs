@@ -22,7 +22,7 @@ export const About = () => {
           1. Clone the the{" "}
           <a href="https://github.com/ijsto/inextjs">starter repo</a>
           <p>
-            <code>git clone git@github.com:ijsto/inextjs.git</code>
+            <code>git clone https://github.com/ijsto/inextjs.git</code>
           </p>
         </li>
         <li>
