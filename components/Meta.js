@@ -9,7 +9,7 @@ export const Meta = () => {
         </title>
 
         <link
-          href="https://fonts.googleapis.com/css?family=Space+Mono|Source+Sans+Pro:700&display=swap"
+          href="https://fonts.googleapis.com/css?family=Space+Mono|Spartan:700&display=swap"
           rel="stylesheet"
         />
         <link rel="shortcut icon" href="/favicon.png" />
@@ -21,7 +21,7 @@ export const Meta = () => {
         h2,
         h3,
         h4 {
-          font-family: "Source Sans Pro", sans-serif;
+          font-family: "Spartan", sans-serif;
         }
 
         body {

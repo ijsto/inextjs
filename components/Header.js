@@ -56,10 +56,11 @@ export const Header = () => {
         }
         
         .logo {
+          line-height: 1.25;
           background-color: #B838F0;
           font-size: 1.25rem;
           letter-spacing: 0px;
-          padding: 0.76rem 0 0 0.75rem;
+          padding: 1.5rem 0 0 0.75rem;
           position: absolute;
           top: 16px;
         }
@@ -75,9 +76,9 @@ export const Header = () => {
           text-transform: lowercase;
         }
         .js {
-          font-family: "Source Sans Pro", sans-serif;
+          font-family: "Spartan", sans-serif;
           color: white;
-          font-size: 2rem;
+          font-size: 1.75rem;
           margin-right: 4px;
         }
         .js:hover {
