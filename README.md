@@ -1,4 +1,4 @@
-<h1 align="center">iJS.to Next.js Starter</h1>
+<h1 align="center">Next.js basic starter app</h1>
 
 [![github follow](https://img.shields.io/github/followers/ijsto?color=%23ff665a&label=Follow%20iJS.to&logo=github&style=for-the-badge)](https://github.com/ijsto)
 [![ijs](https://img.shields.io/badge/learn%20code-black?&message=Courses&style=for-the-badge&label=ijs.to&colorA=FF6666&colorB=776677)](https://ijs.to)
