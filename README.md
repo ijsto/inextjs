@@ -27,7 +27,7 @@ Next.js is a framework that makes it easy to create Universal web apps in React.
 
 This is a simple starter project that demonstrates how to use Next.js with custom layout and some modular and global styles via `<style jsx />` and `<style global jsx />` tags.
 
-## Get Started (3 minutes)
+## Get Started (2 minutes)
 
 1. Clone the the [starter repo](https://github.com/ijsto/nextjs)
 
