@@ -1,6 +1,6 @@
 import Link from "next/link";
 
-export const Header = () => {
+const Header = () => {
   return (
     <header>
       <Link href="/">

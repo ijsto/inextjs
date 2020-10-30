@@ -1,7 +1,7 @@
 import Link from "next/link";
 import Socials from "./Socials";
 
-export const Footer = () => {
+const Footer = () => {
   return (
     <>
       <footer>

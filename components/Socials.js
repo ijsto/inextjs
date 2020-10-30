@@ -1,4 +1,4 @@
-export const Socials = () => {
+const Socials = () => {
   return (
     <>
       <div className="socials">
