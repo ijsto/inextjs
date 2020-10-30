@@ -18,7 +18,7 @@ export const Socials = () => {
             alt="my image"
           />
         </a>
-        <a target="_blank" href="https://www.facebook.com/IJS-349806719022014">
+        <a target="_blank" href="https://www.facebook.com/ijstodev">
           <img
             src="/icon/facebook.png"
             className="icon"

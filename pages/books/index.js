@@ -3,7 +3,7 @@ import Link from "next/link";
 const Books = () => {
   return (
     <div>
-      <p>The link below is a dynamic NextJS link.</p>
+      <p>The below link is a dynamic Next.js link.</p>
 
       <h1>Books Catalogue</h1>
 

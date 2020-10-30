@@ -4,23 +4,23 @@ export const About = () => {
       <h1>About Page</h1>
 
       <p>
-        Interested in learning more about what is Next.js?{" "}
         <a href="https://ijs.to/p/what-is-next.js" target="_blank">
-          Check out this post
+          Learning how to build apps with Next.js!
         </a>
       </p>
       <p>
-        This simple app is intended as a base for any other{" "}
+        This project is intended as a base for any other{" "}
         <a href="https://ijs.to" target="_blank">
           iJS.to
         </a>{" "}
         or your own starter projects to eliminate the boilerplate.
       </p>
-      <h2>Get Started in (3 minutes)</h2>
+      <h2>Get Started in 3 minutes</h2>
       <ul>
         <li>
           1. Clone the the{" "}
-          <a href="https://github.com/ijsto/inextjs">starter repo</a>
+          <a href="https://github.com/ijsto/inextjs">starter repo</a>.<br />
+          You can simple copy-paste the below line into your Terminal.
           <p>
             <code>git clone https://github.com/ijsto/inextjs.git</code>
           </p>
@@ -47,9 +47,13 @@ export const About = () => {
           Starter project is live at:{" "}
           <a href="http://localhost:3000">http://localhost:3000</a>
         </li>
+
+        <li>
+          Live demo: <a href="http://inextjs.now.sh/">inextjs.now.sh</a>
+        </li>
       </ul>
 
-      <h2>The starter is now ready - have fun!</h2>
+      <h2 style={{marginTop: 32}}>The starter is now ready - have fun!</h2>
       <style jsx>{`
         * {
           line-height: 1.5;
